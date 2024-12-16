@@ -5,6 +5,7 @@ This project implements a scalable IMDb movie recommendation system using a hybr
 ## Getting Started
 
 Follow the steps below to set up and run the project.
+Link to the datasets - https://datasets.imdbws.com/
 
 ### Prerequisites
 
