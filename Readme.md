@@ -2,9 +2,9 @@
 
 ### CS-GY 6513 – Big Data Analysis  
 **Team Members:**  
+- Aneesh Mokashi (`akm9999@nyu.edu`)
+- Aniket Mane (`am14661@nyu.edu`)    
 - Ashutosh Agrawal (`aa12398@nyu.edu`)
-- Aniket Mane (`am14661@nyu.edu`)  
-- Aneesh Mokashi (`akm9999@nyu.edu`)  
 
 ---
 
