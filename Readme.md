@@ -109,11 +109,6 @@ Download Link: [IMDb Datasets](https://datasets.imdbws.com/)
 
 ---
 
-## 🔗 Project Repository
-[GitHub Link](https://github.com/iamANIKETmane/BigDataProject)
-
----
-
 ## 🏁 Conclusion
 The developed system efficiently integrates **collaborative**, **content-based**, and **neural** filtering techniques to produce accurate and diverse recommendations. It handles large-scale data using distributed PySpark pipelines and shows robust performance under sparsity. Future integration of streaming tools can enhance responsiveness and user experience.
 
